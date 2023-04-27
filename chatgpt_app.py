@@ -7,7 +7,7 @@ st.title("Special Topics in Data Analytics with Nirmala")
 st.sidebar.image('https://clipground.com/images/miami-dade-college-logo-7.png', width=100)
 st.sidebar.header("Instructions")
 st.sidebar.info(
-    '''This is a web application that serves as a Teaching Assistant for Dr. Ernesto Lee.
+    '''This is a web application that serves as a helping tool
        Enter a **query** in the **text boxes** and **press enter** to receive 
        a **response**.
        '''
